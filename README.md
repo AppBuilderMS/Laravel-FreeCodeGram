@@ -8,6 +8,6 @@ Laravel FreeCodeGram is an application that simulates Instagram for posting user
 ## Screenshots
 
 ![FreeCodeGram](https://user-images.githubusercontent.com/109177230/200645915-51b6709b-499a-4598-9f39-ca1464533df7.png)
-![FreeCodeGram2](https://user-images.githubusercontent.com/109177230/200645951-a770a5db-c0f7-4192-9810-ad0c778901b7.png)
+![FreeCodeGram-main](https://user-images.githubusercontent.com/109177230/202788281-ed027fa7-b185-4e90-b69a-60f33564edc7.png)
  
- - For more screenshots [here](screenshots/SCREENSHOTS.md)
+ ### For more screenshots [here](screenshots/SCREENSHOTS.md)
